@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  border: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+#output {
+  width: 99%;
+  height: 85vh;
+  border-bottom: 1px solid black;
+}
+
+#output p {
+  margin: 5px;
+  background-color: #eee;
+  padding: 6px;
+}
+
+#chatBox {
+  width: 90%;
+  height: 30px;
+  border: 1px solid lightgrey;
+  border-radius: 8px;
+  padding-left: 6px;
+  margin-top: 8px;
+}
